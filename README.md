@@ -3,7 +3,7 @@
 A new Flutter project.
 
 It is a web-based mobile software that receives prices and specifications of cryptocurrencies online
-It receives the information from the CoinCap Web-site
+It receives the information from the https://coincap.io
 
 ## Getting Started
 

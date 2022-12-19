@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+It is a web-based mobile software that receives prices and specifications of cryptocurrencies online
+It receives the information from the CoinCap Web-site
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
